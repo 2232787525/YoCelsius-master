@@ -8,4 +8,4 @@
 4. 将sunriseView sunsetView 整合成一个类SunView，将父类sun的方法写到SunView中，去掉sun类
 5. 大部分动画使用 startStatue、showStatue、hideStatue三个方法控制动画的开始状态、正常显示状态和动画消失的状态
 
-[](https://github.com/2232787525/YoCelsius-master/blob/master/QQ20171127-105855-HD.gif)
+[](https://github.com/2232787525/YoCelsius-master/blob/master/QQ20171127105855HD.gif)
